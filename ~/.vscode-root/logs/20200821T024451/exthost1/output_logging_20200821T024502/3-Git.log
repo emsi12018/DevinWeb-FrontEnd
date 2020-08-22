@@ -4868,3 +4868,277 @@ fatal: bad revision 'working..'
 > git remote --verbose
 > git config --get commit.template
 > git add -A -- .
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push origin master:master
+> git show --textconv :src/components/testdevinweb.vue
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+To https://github.com/emsi12018/DevinWeb.git
+   ab926f2..5f82c37  master -> master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+Missing or invalid credentials.
+Skip silent fetch commands
+Missing or invalid credentials.
+Skip silent fetch commands
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/emsi12018/DevinWeb.git/'
+> git status -z -u
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show --textconv :src/components/testdevinweb.vue
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git config --get commit.template
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git symbolic-ref --short HEAD
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git show --textconv :src/components/testdevinweb.vue
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s ba8f0a1409abc8357d8c7e320a88b5f7dc17f0bf
+> git show --textconv :src/components/testdevinweb.vue
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
