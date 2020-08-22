@@ -6,3 +6,9 @@
 [2020-08-22 06:09:38.859] [sharedprocess] [info] Renamed to /home/agil-dev/.vscode/extensions/knisterpeter.vscode-github-0.30.3
 [2020-08-22 06:09:38.860] [sharedprocess] [info] Installation completed. knisterpeter.vscode-github
 [2020-08-22 06:09:38.934] [sharedprocess] [info] Extensions installed successfully: knisterpeter.vscode-github
+[2020-08-23 00:33:55.367] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2020-08-23 00:33:56.936] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/~/.vscode-root/CachedExtensionVSIXs/github.vscode-pull-request-github-0.19.0
+[2020-08-23 00:33:57.272] [sharedprocess] [info] Extracted extension to /home/agil-dev/.vscode/extensions/.github.vscode-pull-request-github-0.19.0: github.vscode-pull-request-github
+[2020-08-23 00:33:57.272] [sharedprocess] [info] Renamed to /home/agil-dev/.vscode/extensions/github.vscode-pull-request-github-0.19.0
+[2020-08-23 00:33:57.274] [sharedprocess] [info] Installation completed. github.vscode-pull-request-github
+[2020-08-23 00:33:57.953] [sharedprocess] [info] Extensions installed successfully: github.vscode-pull-request-github
