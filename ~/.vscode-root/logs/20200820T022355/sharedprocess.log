@@ -1,0 +1,9 @@
+[2020-08-20 02:23:59.318] [sharedprocess] [info] main {"machineId":"3d43c142280f3ce9c137e68b2027eaa712221a439439af243c1c47b82e6884c4","windowId":2}
+[2020-08-20 02:23:59.353] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/~/.vscode-root/User/snippets'
+[2020-08-20 02:24:39.335] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-20 06:27:11.173] [sharedprocess] [info] Installing extension: octref.vetur
+[2020-08-20 06:27:32.805] [sharedprocess] [info] Downloaded extension: octref.vetur /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/~/.vscode-root/CachedExtensionVSIXs/octref.vetur-0.26.1
+[2020-08-20 06:27:38.443] [sharedprocess] [info] Extracted extension to /home/agil-dev/.vscode/extensions/.octref.vetur-0.26.1: octref.vetur
+[2020-08-20 06:27:38.444] [sharedprocess] [info] Renamed to /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1
+[2020-08-20 06:27:38.446] [sharedprocess] [info] Installation completed. octref.vetur
+[2020-08-20 06:27:38.506] [sharedprocess] [info] Extensions installed successfully: octref.vetur

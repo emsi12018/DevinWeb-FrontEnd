@@ -1,0 +1,8 @@
+[2020-08-21 02:44:58.440] [sharedprocess] [info] main {"machineId":"3d43c142280f3ce9c137e68b2027eaa712221a439439af243c1c47b82e6884c4","windowId":2}
+[2020-08-21 02:45:38.449] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-08-22 06:09:36.770] [sharedprocess] [info] Installing extension: knisterpeter.vscode-github
+[2020-08-22 06:09:37.930] [sharedprocess] [info] Downloaded extension: knisterpeter.vscode-github /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/~/.vscode-root/CachedExtensionVSIXs/knisterpeter.vscode-github-0.30.3
+[2020-08-22 06:09:38.859] [sharedprocess] [info] Extracted extension to /home/agil-dev/.vscode/extensions/.knisterpeter.vscode-github-0.30.3: knisterpeter.vscode-github
+[2020-08-22 06:09:38.859] [sharedprocess] [info] Renamed to /home/agil-dev/.vscode/extensions/knisterpeter.vscode-github-0.30.3
+[2020-08-22 06:09:38.860] [sharedprocess] [info] Installation completed. knisterpeter.vscode-github
+[2020-08-22 06:09:38.934] [sharedprocess] [info] Extensions installed successfully: knisterpeter.vscode-github
