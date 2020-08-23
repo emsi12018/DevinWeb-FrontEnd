@@ -1,7 +1,7 @@
 <template>
   <div id="app">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-  <nav class="navbar is-dark " role="navigation" aria-label="main navigation">
+  <nav class="navbar is-violet " role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a class="navbar-item" href="/">
         <img src="../src/assets/new-logo-3.png" width="112" height="28">
@@ -14,19 +14,19 @@
       <div class="navbar-start " style="mx-auto">
         <div class="navbar-item">
           <div class="field">
-            <input class="is-checkradio is-success" id="exampleRadioInline1" type="radio" name="exampleRadioInline" checked="checked">
-            <label for="exampleRadioInline1"> Personal </label>
+            <input class="is-checkradio" id="exampleRadioInline1" type="radio" name="exampleRadioInline" checked="checked">
+            <label for="exampleRadioInline1" class="is-violet"> Personal </label>
           </div>
         </div>
         <div class="navbar-item">
           <div class="field">
             <input class="is-checkradio" id="exampleRadioInline2" type="radio" name="exampleRadioInline">
-            <label for="exampleRadioInline2"> Business </label>
+            <label for="exampleRadioInline2" class="is-violet"> Business </label>
           </div>
         </div>
         <div class="navbar-item" style="margin-left:150px;">
           <a class="navbar-item">
-            <router-link to="/about">About</router-link>
+            <router-link  to="/about">About</router-link>
           </a>
 
           <a class="navbar-item">
@@ -60,37 +60,47 @@
 
   <router-view/>
 
-  <section id="footer" style="margin-top:25px;">
+  <section id="footer" >
 		<div class="container" >
 			<div class="row text-center text-xs-center text-sm-left text-md-left" >
-				<div class="col-xs-12 col-sm-4 col-md-4" style="margin-top:25px;" >
-					<h5>Quick links</h5>
+				<div class="col-xs-4 col-sm-2 col-md-2" style="margin-top:25px;" >
+					<h5>PRODUCTS</h5>
 					<ul class="list-unstyled quick-links" >
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>Videos</a></li>
+						<li><a href="/"><i class="fa fa-angle-double-right"></i>Personal</a></li>
+						<li><a href="/"><i class="fa fa-angle-double-right"></i>Business</a></li>
+						<li><a href="/"><i class="fa fa-angle-double-right"></i>Pricing</a></li>
+						<li><a href="/"><i class="fa fa-angle-double-right"></i>Login</a></li>
 					</ul>
 				</div>
-				<div class="col-xs-12 col-sm-4 col-md-4" style="margin-top:25px;">
-					<h5>Quick links</h5>
+				<div class="col-xs-4 col-sm-2 col-md-2" style="margin-top:25px;">
+					<h5>COMPANY</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>Home</a></li>
 						<li><a href="/"><i class="fa fa-angle-double-right"></i>About</a></li>
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>Videos</a></li>
+						<li><a href="/"><i class="fa fa-angle-double-right"></i>Blog</a></li>
+						<li><a href="/"><i class="fa fa-angle-double-right"></i>Careers</a></li>
+						<li><a href="/"><i class="fa fa-angle-double-right"></i>Contact Us</a></li>
 					</ul>
 				</div>
-				<div class="col-xs-12 col-sm-4 col-md-4" style="margin-top:25px;">
-					<h5>Quick links</h5>
+				<div class="col-xs-6 col-sm-4 col-md-4" style="margin-top:25px;">
+					<h5>HELP CENTER</h5>
 					<ul class="list-unstyled quick-links">
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>Home</a></li>
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>About</a></li>
 						<li><a href="/"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
-						<li><a href="/"><i class="fa fa-angle-double-right"></i>Get Started</a></li>
-						<li><a href="/" title="Design and developed by"><i class="fa fa-angle-double-right"></i>Imprint</a></li>
+						<li><a href="/"><i class="fa fa-angle-double-right"></i>Insurance</a></li>
+            <li><a href="/"><i class="fa fa-angle-double-right"></i>Agreement</a></li>
+					</ul>
+				</div>
+        <div class="col-xs-6 col-sm-4 col-md-4" style="margin-top:25px;">
+					<h5>STAY IN TOUCH</h5>
+					<ul class="list-unstyled quick-links">
+            <p class="p-footer">Join our mailing list to get updates. We respect your privacy.</p>
+            <div class="input-group mb-3">
+              <input type="text" class="form-control" placeholder="Email Address..."/>
+                 <div class="input-group-append">
+                    <button class="btn btn-outline-secondary" type="button">
+                      <i class="fa fa-send"/>
+                    </button>
+                 </div>
+            </div>
 					</ul>
 				</div>
 			</div>
@@ -126,6 +136,11 @@ export default {
 <style scoped>
 /* Footer */
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+p.p-footer{
+  color:white;
+}
+
 section {
     padding: 60px 0;
 }
@@ -136,8 +151,12 @@ section .section-title {
     margin-bottom: 50px;
     text-transform: uppercase;
 }
+.is-violet{
+  color: white;
+  background: #310763 !important;
+}
 #footer {
-    background: #1d1d1d !important;
+    background: #310763 !important;
 }
 #footer h5{
 	padding-left: 10px;

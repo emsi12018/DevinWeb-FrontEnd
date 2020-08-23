@@ -38,6 +38,7 @@
     </b-media>
 </div>
 
+
 <div class="aboutus-section">
     <div class="container">
         <div class="row">
@@ -98,185 +99,226 @@
     </div>
 </div>
 
-<hr class="rounded">
 
-   <div class="container">
-      <div class="process">
-          <div class="process-row">
-              <div class="process-step">
-                    <button type="button" class="btn btn-default btn-circle" disabled="disabled"><i class="fa fa-comments-o fa-3x"></i></button>
-                    <h4>Text Us</h4>
-                    <p> Wide variety and high pay. <br/>
-                      Clients are now posting jobs <br/>
-                      in hundreds of skill categories, </p>
-                </div>
-                <div class="process-step">
-                    <button type="button" class="btn btn-default btn-circle" disabled="disabled"><i class="fa fa-user fa-3x"></i></button>
-                    <h4>We deliver</h4>
-                     <p> Wide variety and high pay. <br/>
-                      Clients are now posting jobs <br/>
-                      in hundreds of skill categories, </p>
-                </div>
-                <div class="process-step">
-                    <button type="button" class="btn btn-default btn-circle" disabled="disabled"><i class="fa fa-car fa-3x"></i></button>
-                    <h4>You drive</h4>
-                     <p> Wide variety and high pay. <br/>
-                      Clients are now posting jobs <br/>
-                      in hundreds of skill categories, </p>
-                </div> 
-                <div class="process-step">
-                    <button type="button" class="btn btn-default btn-circle" disabled="disabled"><i class="fa fa-arrow-up fa-3x"></i></button>
-                    <h4>We pick it up</h4>
-                     <p> Wide variety and high pay. <br/>
-                      Clients are now posting jobs <br/>
-                      in hundreds of skill categories, </p>
-                </div> 
+<div class="container">
+  <div class="process">
+      <div class="process-row">
+          <div class="process-step">
+                <button type="button" class="btn btn-default btn-circle" disabled="disabled"><i class="fa fa-comments-o fa-3x"></i></button>
+                <h4>Text Us</h4>
+                <p> Wide variety and high pay. <br/>
+                  Clients are now posting jobs <br/>
+                  in hundreds of skill categories, </p>
             </div>
-          </div>
+            <div class="process-step">
+                <button type="button" class="button2 btn btn-default btn-circle" disabled="disabled"><i class="fa fa-user fa-3x"></i></button>
+                <h4>We deliver</h4>
+                  <p> Wide variety and high pay. <br/>
+                  Clients are now posting jobs <br/>
+                  in hundreds of skill categories, </p>
+            </div>
+            <div class="process-step">
+                <button type="button" class="btn btn-default btn-circle" disabled="disabled"><i class="fa fa-car fa-3x"></i></button>
+                <h4>You drive</h4>
+                  <p> Wide variety and high pay. <br/>
+                  Clients are now posting jobs <br/>
+                  in hundreds of skill categories, </p>
+            </div> 
+            <div class="process-step">
+                <button type="button" class="button2 btn btn-default btn-circle" disabled="disabled"><i class="fa fa-arrow-up fa-3x"></i></button>
+                <h4>We pick it up</h4>
+                  <p> Wide variety and high pay. <br/>
+                  Clients are now posting jobs <br/>
+                  in hundreds of skill categories, </p>
+            </div> 
+        </div>
       </div>
+  </div>
       <br/>
       <br/>
-<hr class="rounded">
 
-<div class="how-section1">
-        <div class="row">
-            <div class="col-md-6 how-img">
-                <img src="../assets/rent-02.png" class="rounded-circle img-fluid" alt=""/>
-            </div>
-            <div class="col-md-6">
-                <h4>Find rewarding projects</h4>
-                            <h4 class="subheading">GetLance is a great place to find more clients, and to run and grow your own freelance business.</h4>
-            <p class="text-muted">Freedom to work on ideal projects. On GetLance, you run your own business and choose your own clients and projects. Just complete your profile and we’ll highlight ideal jobs. Also search projects, and respond to client invitations.
-                                Wide variety and high pay. Clients are now posting jobs in hundreds of skill categories, paying top price for great work.
-                                More and more success. The greater the success you have on projects, the more likely you are to get hired by clients that use GetLance.</p>
-            </div>
+  <div class="container">
+    <div class="rectangle">
+      <img class="img2 " src="https://image.posterlounge.com/img/products/390000/388473/388473_poster_l.jpg" alt="testing"></div>
+    <div class="rectangle2">
+      <div class="row">
+        <div class="col-md-6">
+           
         </div>
-        <div class="row">
-            <div class="col-md-6">
-                <h4>Get hired quickly</h4>
-                            <h4 class="subheading">GetLance makes it easy to connect with clients and begin doing great work.</h4>
-                            <p class="text-muted">Streamlined hiring. GetLance’s sophisticated algorithms highlight projects you’re a great fit for.
-                                Top Rated and Rising Talent programs. Enjoy higher visibility with the added status of prestigious programs.
-                                Do substantial work with top clients. GetLance pricing encourages freelancers to use GetLance for repeat relationships with their clients.</p>
-            </div>
-            <div class="col-md-6 how-img">
-                <img src="../assets/rent-01.png" class="rounded-circle img-fluid" alt=""/>
-            </div>
+        <div class="col-md-6">
+          <div class="col1">
+              <p>
+                <center> 
+                  We've got SF covered 
+                </center>
+              </p> 
+              <br/>
+              <p class="p-min"> 
+                We provide two delivery options for any trip:
+              </p>
+              <p class="p-min">
+                <i class="fa fa-check "/>     Concierge service (8am-8pm daily) 
+              </p> 
+              <p class="p-small">
+                We deliver or pick up at your doorstep. Always <br/>
+                have a parking spot right out front, just for you.
+              </p>
+              <p class="p-min">
+                <i class="fa fa-check "/>     Self service (24/7) 
+              </p> 
+              <p class="p-small">
+                We deliver within 3 blocks and unlock it whenever  <br/>
+                you are ready. Park anywhere legal in our zone.<br/>
+                lock up, and walk away to return. More flexibility on<br/>
+                timing, especially for starting early or ending late.
+              </p>
+          </div>
         </div>
-        <div class="row">
-            <div class="col-md-6 how-img">
-                  <img src="../assets/rent-03.jpg" class="rounded-circle img-fluid" alt=""/>
-            </div>
-            <div class="col-md-6">
-                <h4>Work efficiently, effectively.</h4>
-                            <h4 class="subheading">With GetLance, you have the freedom and flexibility to control when, where, and how you work. Each project includes an online workspace shared by you and your client, allowing you to:</h4>
-                            <p class="text-muted">Send and receive files. Deliver digital assets in a secure environment.
-                                Share feedback in real time. Use GetLance Messages to communicate via text, chat, or video.
-                                Use our mobile app. Many features can be accessed on your mobile phone when on the go.</p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <h4>Get paid on time</h4>
-                            <h4 class="subheading">All projects include GetLance Payment Protection — helping ensure that you get paid for all work successfully completed through the freelancing website.</h4>
-                            <p class="text-muted">All invoices and payments happen through GetLance. Count on a simple and streamlined process.
-                                Hourly and fixed-price projects. For hourly work, submit timesheets through GetLance. For fixed-price jobs, set milestones and funds are released via GetLance escrow features.
-                                Multiple payment options. Choose a payment method that works best for you, from direct deposit or PayPal to wire transfer and more.</p>
-            </div>
-            <div class="col-md-6 how-img">
-                <img src="../assets/rent-04.jpg" class="rounded-circle img-fluid" alt=""/>
-            </div>
-        </div>
+      </div>
     </div>
-
-
+  </div>
 
   <div class="container text-center" style="margin-top:30px;">
-        <div class="row">
-
+    <div class="row">
 <!-- Card #1, Starter -->
-            <div class="col-lg-4 col-md-6 col-sm-10 pb-4 d-block m-auto">
-                <div class="pricing-item" style="border: 1px solid">
-                    <!-- Indicator of subscription type -->
-                    <div class="pt-4 pb-3" style="letter-spacing: 2px">
-                        <h4>FlexPass</h4>
-                    </div>
-                    <!-- Price class -->
-                    <div class="pricing-price pb-1 text-dark color-primary-text ">
-                        <h1 style="font-weight: 1000; font-size: 3.5em;">
-                            <span style="   font-size: 20px;">€</span>25 
-                        </h1>
-                    </div>
-                    <!-- Perks of said subscription -->
-                    <div class="pricing-description">
-                        <ul class="list-unstyled mt-3 mb-4">
-                            <li class="pl-3 pr-3">Donec vitae sapien</li>
-                            <li class="pl-3 pr-3">1 days free</li>
-                            <li class="pl-3 pr-3">Phone and email support</li>
-                            <li class="pl-3 pr-3">Help center access</li>
-                        </ul>
-                    </div>
-                    <!-- Button -->
-                    <div class="pricing-button pb-4">
-                        <button type="button" class="button is-dark w-75">Start with FlexPass</button>
-                    </div>
-                </div>
-            </div>
-
-<!-- Card #2, Intermediate -->
         <div class="col-lg-4 col-md-6 col-sm-10 pb-4 d-block m-auto">
-            <div class="pricing-item" style="box-shadow: 0px 0px 30px -7px rgba(0,0,0,0.29);border: 1px solid;">
+            <div class="pricing-item" style="border: 1px solid">
+                <!-- Indicator of subscription type -->
                 <div class="pt-4 pb-3" style="letter-spacing: 2px">
-                    <h4>Getaway</h4>
+                    <h4>FlexPass</h4>
                 </div>
-                <div class="pricing-price pb-1 text-dark color-primary-text ">
+                <!-- Price class -->
+                <div class="pricing-price pb-1 text-violet color-primary-text ">
                     <h1 style="font-weight: 1000; font-size: 3.5em;">
-                        <span style="font-size: 20px;">€</span>50
+                        <span style="font-size: 20px;">€</span>25 
                     </h1>
                 </div>
+                <!-- Perks of said subscription -->
                 <div class="pricing-description">
                     <ul class="list-unstyled mt-3 mb-4">
                         <li class="pl-3 pr-3">Donec vitae sapien</li>
-                        <li class="pl-3 pr-3">2 days free</li>
+                        <li class="pl-3 pr-3">1 days free</li>
                         <li class="pl-3 pr-3">Phone and email support</li>
                         <li class="pl-3 pr-3">Help center access</li>
                     </ul>
                 </div>
+                <!-- Button -->
                 <div class="pricing-button pb-4">
-                    <button type="button" class="button is-dark w-75">Start with Getaway</button>
+                    <button type="button" class="button is-violet w-75">Start with FlexPass</button>
                 </div>
             </div>
         </div>
 
-<!-- Card #3, Professional -->
-
-            <div class="col-lg-4 col-md-6 col-sm-10 pb-4 d-block m-auto">
-                <div class="pricing-item" style="border: 1px solid">
-                    <div class="pt-4 pb-3" style="letter-spacing: 2px">
-                        <h4>Freedom</h4>
-                    </div>
-                    <div class="pricing-price pb-1 text-dark color-primary-text ">
-                        <h1 style="font-weight: 1000; font-size: 3.5em;">
-                            <span style="font-size: 20px;">€</span>125
-                        </h1>
-                    </div>
-                    <div class="pricing-description">
-                        <ul class="list-unstyled mt-3 mb-4">
-                            <li class="pl-3 pr-3">Donec vitae sapien</li>
-                            <li class="pl-3 pr-3">3 days free</li>
-                            <li class="pl-3 pr-3">Phone and email support</li>
-                            <li class="pl-3 pr-3">Help center access</li>
-                        </ul>
-                    </div>
-                    <div class="pricing-button pb-4">
-                        <button type="button" class="button is-dark w-75">Start with Freedom</button>
-                    </div>
-                </div>
+<!-- Card #2, Intermediate -->
+    <div class="col-lg-4 col-md-6 col-sm-10 pb-4 d-block m-auto">
+        <div class="pricing-item" style="box-shadow: 0px 0px 30px -7px rgba(0,0,0,0.29);border: 1px solid;">
+            <div class="pt-4 pb-3" style="letter-spacing: 2px">
+                <h4>Getaway</h4>
+            </div>
+            <div class="pricing-price pb-1 text-violet color-primary-text ">
+                <h1 style="font-weight: 1000; font-size: 3.5em;">
+                    <span style="font-size: 20px;">€</span>50
+                </h1>
+            </div>
+            <div class="pricing-description">
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li class="pl-3 pr-3">Donec vitae sapien</li>
+                    <li class="pl-3 pr-3">2 days free</li>
+                    <li class="pl-3 pr-3">Phone and email support</li>
+                    <li class="pl-3 pr-3">Help center access</li>
+                </ul>
+            </div>
+            <div class="pricing-button pb-4">
+                <button type="button" class="button is-violet w-75">Start with Getaway</button>
             </div>
         </div>
     </div>
 
- 
+<!-- Card #3, Professional -->
+
+    <div class="col-lg-4 col-md-6 col-sm-10 pb-4 d-block m-auto">
+          <div class="pricing-item" style="border: 1px solid">
+              <div class="pt-4 pb-3" style="letter-spacing: 2px">
+                  <h4>Freedom</h4>
+              </div>
+              <div class="pricing-price pb-1 text-violet color-primary-text ">
+                  <h1 style="font-weight: 1000; font-size: 3.5em;">
+                      <span style="font-size: 20px;">€</span>125
+                  </h1>
+              </div>
+              <div class="pricing-description">
+                  <ul class="list-unstyled mt-3 mb-4">
+                      <li class="pl-3 pr-3">Donec vitae sapien</li>
+                      <li class="pl-3 pr-3">3 days free</li>
+                      <li class="pl-3 pr-3">Phone and email support</li>
+                      <li class="pl-3 pr-3">Help center access</li>
+                  </ul>
+              </div>
+              <div class="pricing-button pb-4">
+                  <button type="button" class="button is-violet w-75">Start with Freedom</button>
+              </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+  <br/>
+  <br/>
+  <br/>
+
+
+  <div class="container-fluid cont">
+    <div class=row>
+      <div class="col-md-6">
+        <div class="col2">
+          <p>
+            <center>
+            Always Drive an <br/>
+            
+            Identical Prius
+            </center>
+          </p>
+          <p class="p-violet">
+            <center>
+              All our cars are the same so they feel familiar <br/>
+              No branding so you don't stick out.<br/>
+              <br/>
+              Fits 5 comfortably-or a surfboard,bicycle, or skiis,<br/>
+              54 MPG hybrid gets you to Tahoe and back on a<br/>
+              single tank. Phone mount, charging cables, and <br/>
+              FasTrak included. Bluetooth and safety technology <br/>
+              like adaptive cruise control. We use all natural <br/>
+              deodorizers and cleaning supplies.
+            </center>
+          </p>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <img class="img3" src="../assets/car1.jpeg">
+          <div class="row">
+            <div class="col-md-6">
+              <img class="img4" src="../assets/car3.jpg">
+            </div>
+            <div class="col-md-6">
+              <img class="img5" src="../assets/moto.jpg">
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6 ">
+          <h3 class="serif">
+            Join instantly with $0 down <br/>
+            and get your car right now.
+          </h3>
+          
+      </div>
+      <div class="col-md-3 serif">
+        <button type="button" class="button button5">Get started</button>
+      </div>
+    </div>
+  </div>
 
 </div>
 
@@ -291,7 +333,129 @@ export default {
 </script>
 
 <style>
-@import "~bulma/css/bulma.css";
+
+
+
+button.button5 {
+  background-color: #310763; 
+  color: black; 
+  border-radius: 50px;
+  width: 350px;
+  height: 50px;
+  border: 2px solid #f3e9ff;
+  margin-top: 15px;
+  margin-left: -150px;
+  color:#f3e9ff;
+}
+
+.serif {
+  margin-top:50px;
+  margin-bottom: 50px;
+  margin-left: 250px;
+  font-family: serif;
+  color : #310763;
+}
+
+.container-fluid.cont{
+  background: #f3e9ff;
+}
+
+.img4{
+  width: 300px;
+  height: 350px;
+  margin-bottom: 50px;
+  
+}
+
+.img5{
+  margin-top: 50px;
+  width: 250px;
+  height: 250px;
+  
+}
+
+.img3{
+  margin-top: -50px;
+  width: auto;
+  height: auto;
+  margin-bottom: 50px;
+}
+
+p.p-violet{
+  font-size: 13px;
+  color :black;
+  font-family: Arial;
+  font-style: italic;
+
+}
+
+p.p-small {
+  margin-left: 200px;
+  font-size: 13px;
+  color :rgb(244, 217, 255);
+  font-family: Arial;
+  font-style: italic;
+}
+
+i.is {
+ width: 25px;
+ height : 25px;
+ margin-left:160px;
+}
+
+p.p-min{
+ font-weight: bold;
+ margin-left: 160px;
+ font-size: 15px;
+}
+
+.col1 {
+  margin-top: 150px;
+  margin-left: -80px;
+  font-size: 30px;
+  color : white;
+}
+
+.col2 {
+  margin-top: 150px;
+  margin-left: -80px;
+  font-size: 30px;
+  color : #310763;
+}
+
+.rectangle {
+  height: 650px;
+  width: 450px;
+  background-color: #555;
+  margin-left: 50px;
+  position: absolute;
+  z-index: 2;
+}
+.rectangle2 {
+  height: 650px;
+  width: 1100px;
+  background-color:#310763;
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-bottom: 80px;
+  position: sticky;
+  z-index: 1;
+}
+
+button.is-violet{
+  background-color:#310763;
+  color:white;
+}
+
+.text-violet {
+  color: #310763;
+}
+
+.img2{
+  width: 450px;
+  height: 650px; 
+}
+
 .hero-image {
   background-color: #cccccc;
   height: 500px;
@@ -431,12 +595,12 @@ h2{
     padding: 10%;
 }
 .how-section1 h4{
-    color: #8c94ff;
+    color: #cfb1ff;
     font-weight: bold;
     font-size: 30px;
 }
 .how-section1 .subheading{
-    color: #000000;
+    color: #310763;
     font-size: 20px;
 }
 .how-section1 .row
@@ -465,10 +629,10 @@ body {
     padding: 0 0 11px;
     position: relative;
     text-transform: uppercase;
-    color: #000;
+    color: #310763;
 }
 .aboutus-title::after {
-    background: #1d1d1d none repeat scroll 0 0;
+    background: #310763 none repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 2px;
@@ -484,14 +648,14 @@ body {
 }
 
 a:hover, a:active {
-    color: #1d1d1d;
+    color: #310763;
     text-decoration: none;
     outline: 0;
 }
 .aboutus-more {
-    border: 1px solid #1d1d1d;
+    border: 1px solid #310763;
     border-radius: 25px;
-    color: #1d1d1d;
+    color: #310763;
     display: inline-block;
     font-size: 14px;
     font-weight: 700;
@@ -506,7 +670,7 @@ a:hover, a:active {
     width: 18%;
 }
 .feature .feature-box .iconset::after {
-    background: #1d1d1d none repeat scroll 0 0;
+    background: #310763 none repeat scroll 0 0;
     content: "";
     height: 150%;
     left: 43%;
@@ -516,7 +680,7 @@ a:hover, a:active {
 }
 
 .feature .feature-box .feature-content h4 {
-    color: #0f0f0f;
+    color: #310763;
     font-size: 18px;
     letter-spacing: 0;
     line-height: 22px;
@@ -530,7 +694,7 @@ a:hover, a:active {
     width: 78%;
 }
 .feature .feature-box .feature-content h4 {
-    color: #0f0f0f;
+    color: #310763;
     font-size: 18px;
     letter-spacing: 0;
     line-height: 22px;
@@ -542,12 +706,12 @@ a:hover, a:active {
     line-height: 22px;
 }
 .icon {
-    color : #1d1d1d;
+    color : #310763;
     padding:0px;
     font-size:40px;
-    border: 1px solid #1d1d1d;
+    border: 1px solid #310763;
     border-radius: 100px;
-    color: #1d1d1d;
+    color: #310763;
     font-size: 28px;
     height: 70px;
     line-height: 70px;
@@ -576,6 +740,12 @@ body{margin:40px;}
     filter: alpha(opacity=100) !important;
 }
 
+.process-step button.button2[disabled] {
+    margin-top: 70px; 
+    opacity: 1 !important;
+    filter: alpha(opacity=100) !important;
+}
+
 .process-row:before {
     top: 50px;
     bottom: 0;
@@ -583,12 +753,9 @@ body{margin:40px;}
     content: " ";
     width: 100%;
     height: 1px;
-    background-color: #ccc;
-    z-order: 0;
-    
 }
 
-.process-step {    
+.process-step {   
     display: table-cell;
     text-align: center;
     position: relative;
