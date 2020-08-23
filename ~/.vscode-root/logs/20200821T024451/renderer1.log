@@ -802,3 +802,147 @@ Error: Debug Failure. False expression: Expected line to be non-zero
 	at Array.map (<anonymous>)
 	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
 	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:54:37.651] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:54:55.604] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:55:01.610] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:55:03.045] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:55:52.613] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:55:54.313] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:55:56.094] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:55:57.601] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:56:00.972] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:56:02.330] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:56:25.817] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 09:59:09.721] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 10:03:58.943] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 10:05:47.180] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 10:05:50.012] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70
+[2020-08-23 10:13:42.584] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:455:18)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:454:950)
+	at new x (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:442:276)
+	at asSymbolInformation (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:449:22)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:42
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/protocolConverter.js:429:23)
+	at /home/agil-dev/.vscode/extensions/octref.vetur-0.26.1/node_modules/vscode-languageclient/lib/client.js:1088:70

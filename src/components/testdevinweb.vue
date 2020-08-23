@@ -8,7 +8,7 @@
 </head>
 
 <div class="body">
-    <b-media right-align vertical-align="center" class="hero-image" >
+  <b-media right-align vertical-align="center" class="hero-image" >
     <div class="container">
       <div class="row">
         <div class="col-md-6">
@@ -37,7 +37,7 @@
         </div>
       </div>
     </div>
-    </b-media>
+  </b-media>
 </div>
 
 <div class="aboutus-section">
@@ -100,6 +100,40 @@
     </div>
 </div>
 
+<div class="container cont">
+  <div class="row">
+    <div class="col-md-4">
+          <h1 class="serif2">Simple and handly rental process</h1>
+    </div>
+    <div class="col-md-4">
+          <br/>
+           <div class="feature-content">
+              <p>Donec vitae sapien ut libero venenatis faucibu. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt</p>
+           </div>  
+           <hr/>
+          <button type="button" class="btn btn-default btn-circle" disabled="disabled"><i class="fa fa-check-square-o fa-3x"></i></button>
+          <a>
+             <u>
+               Check the available accessories.
+             </u>
+          </a>
+    </div>
+    <div class="col-md-4">
+          <br/>
+           <div class="feature-content">
+              <p>Donec vitae sapien ut libero venenatis faucibu. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt</p>
+           </div>  
+           <hr/>
+           <button type="button" class="btn btn-default btn-circle" disabled="disabled"><i class="fa fa-question fa-3x"></i></button>
+          <a>
+             <u>
+            Read our FAQ ?
+             </u>
+          </a>
+    </div>
+  </div>
+</div>
+
 
 <div class="container">
   <div class="process">
@@ -110,6 +144,7 @@
                 <p> Wide variety and high pay. <br/>
                   Clients are now posting jobs <br/>
                   in hundreds of skill categories, </p>
+                  <hr/>
             </div>
             <div class="process-step">
                 <button type="button" class="button2 btn btn-default btn-circle" disabled="disabled"><i class="fa fa-user fa-3x"></i></button>
@@ -117,6 +152,7 @@
                   <p> Wide variety and high pay. <br/>
                   Clients are now posting jobs <br/>
                   in hundreds of skill categories, </p>
+                  <hr/>
             </div>
             <div class="process-step">
                 <button type="button" class="btn btn-default btn-circle" disabled="disabled"><i class="fa fa-car fa-3x"></i></button>
@@ -124,6 +160,7 @@
                   <p> Wide variety and high pay. <br/>
                   Clients are now posting jobs <br/>
                   in hundreds of skill categories, </p>
+                  <hr/>
             </div> 
             <div class="process-step">
                 <button type="button" class="button2 btn btn-default btn-circle" disabled="disabled"><i class="fa fa-arrow-up fa-3x"></i></button>
@@ -131,6 +168,7 @@
                   <p> Wide variety and high pay. <br/>
                   Clients are now posting jobs <br/>
                   in hundreds of skill categories, </p>
+                  <hr/>
             </div> 
         </div>
       </div>
@@ -336,6 +374,22 @@ button.button5 {
   margin-top: 15px;
   margin-left: -150px;
   color:#f3e9ff;
+}
+
+i.cercle {
+ background-color: white;
+ border-radius: 50%;
+ border: 1x solid grey;
+ padding:10px;
+}
+
+.serif2 {
+  
+  margin-bottom: 50px;
+  margin-left: 100px;
+  margin-right: 70px;
+  font-family: serif;
+  color : #310763;
 }
 
 .serif {
@@ -773,9 +827,13 @@ body{margin:40px;}
   border-radius: 15px;
 }
 
-hr.rounded {
-  border-top: 8px solid #bbb;
-  border-radius: 5px;
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
 }
 
 </style>
