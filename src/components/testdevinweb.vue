@@ -1,28 +1,27 @@
 <template>
 <div>
- <head>
-     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet"
-      integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
+
 <div class="body">
-    <b-media right-align vertical-align="center" class="hero-image" :style="{'background-image': 'url(' + require('../assets/back-01.jpg') + ')'}" style="height:350px;">
+    <b-media right-align vertical-align="center" class="hero-image" >
     <div class="container">
       <div class="row">
-        <div class="col-md-12 " style="text-align:center;" >
-          <p style="margin-left:100px;margin-top:50px;font-size:40px;">
+        <div class="col-md-6">
+          <p style="margin-left:100px;margin-top:50px;font-size:40px;color:#310763">
             Juste drive.<br/>
             We'll do the rest.
           </p>
-          <p style="margin-left:100px;margin-top:10px;font-size:12px;">
+          <p style="margin-left:100px;margin-top:10px;font-size:12px;color:#310763;">
             All-inclusive, usage-based car subscription
           </p>
           <div style="margin-left:100px;margin-top:10px;">
             <div class=row>
-              <div class=col-md-3  >
+              <div class=col-md-4>
                 <div class="form-group">
                   <input type="phone" class="form-control" id="exampleInputPhone1" placeholder="Phone number... ">
                 </div>
@@ -33,11 +32,13 @@
             </div>
           </div> 
         </div>
+        <div class="col-md-6">
+          <img class="img-top" src="../assets/back-01.jpg" alt="">
+        </div>
       </div>
     </div>
     </b-media>
 </div>
-
 
 <div class="aboutus-section">
     <div class="container">
@@ -134,17 +135,16 @@
         </div>
       </div>
   </div>
-      <br/>
-      <br/>
+
+  <br/>
+  <br/>
 
   <div class="container">
     <div class="rectangle">
       <img class="img2 " src="https://image.posterlounge.com/img/products/390000/388473/388473_poster_l.jpg" alt="testing"></div>
     <div class="rectangle2">
       <div class="row">
-        <div class="col-md-6">
-           
-        </div>
+        <div class="col-md-6"></div>
         <div class="col-md-6">
           <div class="col1">
               <p>
@@ -180,7 +180,6 @@
 
   <div class="container text-center" style="margin-top:30px;">
     <div class="row">
-<!-- Card #1, Starter -->
         <div class="col-lg-4 col-md-6 col-sm-10 pb-4 d-block m-auto">
             <div class="pricing-item" style="border: 1px solid">
                 <!-- Indicator of subscription type -->
@@ -209,57 +208,54 @@
             </div>
         </div>
 
-<!-- Card #2, Intermediate -->
-    <div class="col-lg-4 col-md-6 col-sm-10 pb-4 d-block m-auto">
-        <div class="pricing-item" style="box-shadow: 0px 0px 30px -7px rgba(0,0,0,0.29);border: 1px solid;">
-            <div class="pt-4 pb-3" style="letter-spacing: 2px">
-                <h4>Getaway</h4>
-            </div>
-            <div class="pricing-price pb-1 text-violet color-primary-text ">
-                <h1 style="font-weight: 1000; font-size: 3.5em;">
-                    <span style="font-size: 20px;">€</span>50
-                </h1>
-            </div>
-            <div class="pricing-description">
-                <ul class="list-unstyled mt-3 mb-4">
-                    <li class="pl-3 pr-3">Donec vitae sapien</li>
-                    <li class="pl-3 pr-3">2 days free</li>
-                    <li class="pl-3 pr-3">Phone and email support</li>
-                    <li class="pl-3 pr-3">Help center access</li>
-                </ul>
-            </div>
-            <div class="pricing-button pb-4">
-                <button type="button" class="button is-violet w-75">Start with Getaway</button>
+        <div class="col-lg-4 col-md-6 col-sm-10 pb-4 d-block m-auto">
+            <div class="pricing-item" style="box-shadow: 0px 0px 30px -7px rgba(0,0,0,0.29);border: 1px solid;">
+                <div class="pt-4 pb-3" style="letter-spacing: 2px">
+                    <h4>Getaway</h4>
+                </div>
+                <div class="pricing-price pb-1 text-violet color-primary-text ">
+                    <h1 style="font-weight: 1000; font-size: 3.5em;">
+                        <span style="font-size: 20px;">€</span>50
+                    </h1>
+                </div>
+                <div class="pricing-description">
+                    <ul class="list-unstyled mt-3 mb-4">
+                        <li class="pl-3 pr-3">Donec vitae sapien</li>
+                        <li class="pl-3 pr-3">2 days free</li>
+                        <li class="pl-3 pr-3">Phone and email support</li>
+                        <li class="pl-3 pr-3">Help center access</li>
+                    </ul>
+                </div>
+                <div class="pricing-button pb-4">
+                    <button type="button" class="button is-violet w-75">Start with Getaway</button>
+                </div>
             </div>
         </div>
-    </div>
 
-<!-- Card #3, Professional -->
-
-    <div class="col-lg-4 col-md-6 col-sm-10 pb-4 d-block m-auto">
-          <div class="pricing-item" style="border: 1px solid">
-              <div class="pt-4 pb-3" style="letter-spacing: 2px">
-                  <h4>Freedom</h4>
-              </div>
-              <div class="pricing-price pb-1 text-violet color-primary-text ">
-                  <h1 style="font-weight: 1000; font-size: 3.5em;">
-                      <span style="font-size: 20px;">€</span>125
-                  </h1>
-              </div>
-              <div class="pricing-description">
-                  <ul class="list-unstyled mt-3 mb-4">
-                      <li class="pl-3 pr-3">Donec vitae sapien</li>
-                      <li class="pl-3 pr-3">3 days free</li>
-                      <li class="pl-3 pr-3">Phone and email support</li>
-                      <li class="pl-3 pr-3">Help center access</li>
-                  </ul>
-              </div>
-              <div class="pricing-button pb-4">
-                  <button type="button" class="button is-violet w-75">Start with Freedom</button>
+        <div class="col-lg-4 col-md-6 col-sm-10 pb-4 d-block m-auto">
+              <div class="pricing-item" style="border: 1px solid">
+                  <div class="pt-4 pb-3" style="letter-spacing: 2px">
+                      <h4>Freedom</h4>
+                  </div>
+                  <div class="pricing-price pb-1 text-violet color-primary-text ">
+                      <h1 style="font-weight: 1000; font-size: 3.5em;">
+                          <span style="font-size: 20px;">€</span>125
+                      </h1>
+                  </div>
+                  <div class="pricing-description">
+                      <ul class="list-unstyled mt-3 mb-4">
+                          <li class="pl-3 pr-3">Donec vitae sapien</li>
+                          <li class="pl-3 pr-3">3 days free</li>
+                          <li class="pl-3 pr-3">Phone and email support</li>
+                          <li class="pl-3 pr-3">Help center access</li>
+                      </ul>
+                  </div>
+                  <div class="pricing-button pb-4">
+                      <button type="button" class="button is-violet w-75">Start with Freedom</button>
+                  </div>
               </div>
           </div>
       </div>
-    </div>
   </div>
 
   <br/>
@@ -308,18 +304,16 @@
 
     <div class="row">
       <div class="col-md-6 ">
-          <h3 class="serif">
-            Join instantly with $0 down <br/>
-            and get your car right now.
-          </h3>
-          
+        <h3 class="serif">
+          Join instantly with $0 down <br/>
+          and get your car right now.
+        </h3>
       </div>
       <div class="col-md-3 serif">
         <button type="button" class="button button5">Get started</button>
       </div>
     </div>
   </div>
-
 </div>
 
 </template>
@@ -327,14 +321,10 @@
 <script>
 export default {
   
-
-  
 }
 </script>
 
 <style>
-
-
 
 button.button5 {
   background-color: #310763; 
@@ -358,6 +348,13 @@ button.button5 {
 
 .container-fluid.cont{
   background: #f3e9ff;
+}
+
+.img-top {
+  margin-top:25px;
+  margin-bottom:25px;
+  width:500px;
+  height:350px;
 }
 
 .img4{
@@ -457,8 +454,8 @@ button.is-violet{
 }
 
 .hero-image {
-  background-color: #cccccc;
-  height: 500px;
+  background-color: #f3e9ff;
+  height: auto;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

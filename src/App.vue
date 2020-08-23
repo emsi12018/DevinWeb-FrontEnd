@@ -2,16 +2,15 @@
   <div id="app">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <nav class="navbar is-violet " role="navigation" aria-label="main navigation">
+    
     <div class="navbar-brand">
       <a class="navbar-item" href="/">
         <img src="../src/assets/new-logo-3.png" width="112" height="28">
       </a>
     </div>
 
-    
-
     <div id="navbarBasicExample" class="navbar-menu ">
-      <div class="navbar-start " style="mx-auto">
+      <div class="navbar-start ">
         <div class="navbar-item">
           <div class="field">
             <input class="is-checkradio" id="exampleRadioInline1" type="radio" name="exampleRadioInline" checked="checked">
@@ -25,11 +24,11 @@
           </div>
         </div>
         <div class="navbar-item" style="margin-left:150px;">
-          <a class="navbar-item">
-            <router-link  to="/about">About</router-link>
-          </a>
+          
+            <router-link  class="navbar-item" to="/about">About</router-link>
+          
 
-          <a class="navbar-item">
+          <a class="navbar-item ">
             Pricing
           </a>
 
@@ -63,7 +62,7 @@
   <section id="footer" >
 		<div class="container" >
 			<div class="row text-center text-xs-center text-sm-left text-md-left" >
-				<div class="col-xs-4 col-sm-2 col-md-2" style="margin-top:25px;" >
+				<div class="col-xs-4 col-sm-2 col-md-2 margin-25" >
 					<h5>PRODUCTS</h5>
 					<ul class="list-unstyled quick-links" >
 						<li><a href="/"><i class="fa fa-angle-double-right"></i>Personal</a></li>
@@ -72,7 +71,7 @@
 						<li><a href="/"><i class="fa fa-angle-double-right"></i>Login</a></li>
 					</ul>
 				</div>
-				<div class="col-xs-4 col-sm-2 col-md-2" style="margin-top:25px;">
+				<div class="col-xs-4 col-sm-2 col-md-2 margin-25">
 					<h5>COMPANY</h5>
 					<ul class="list-unstyled quick-links">
 						<li><a href="/"><i class="fa fa-angle-double-right"></i>About</a></li>
@@ -81,7 +80,7 @@
 						<li><a href="/"><i class="fa fa-angle-double-right"></i>Contact Us</a></li>
 					</ul>
 				</div>
-				<div class="col-xs-6 col-sm-4 col-md-4" style="margin-top:25px;">
+				<div class="col-xs-6 col-sm-4 col-md-4 margin-25">
 					<h5>HELP CENTER</h5>
 					<ul class="list-unstyled quick-links">
 						<li><a href="/"><i class="fa fa-angle-double-right"></i>FAQ</a></li>
@@ -89,7 +88,7 @@
             <li><a href="/"><i class="fa fa-angle-double-right"></i>Agreement</a></li>
 					</ul>
 				</div>
-        <div class="col-xs-6 col-sm-4 col-md-4" style="margin-top:25px;">
+        <div class="col-xs-6 col-sm-4 col-md-4 margin-25" >
 					<h5>STAY IN TOUCH</h5>
 					<ul class="list-unstyled quick-links">
             <p class="p-footer">Join our mailing list to get updates. We respect your privacy.</p>
@@ -137,6 +136,10 @@ export default {
 /* Footer */
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
+.margin-25 {
+  margin-top: 25px;
+}
+
 p.p-footer{
   color:white;
 }
@@ -153,7 +156,7 @@ section .section-title {
 }
 .is-violet{
   color: white;
-  background: #310763 !important;
+  background: #e7d5ff !important;
 }
 #footer {
     background: #310763 !important;
