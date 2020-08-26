@@ -11246,3 +11246,20 @@ fatal: ref HEAD is not a symbolic ref
 > git for-each-ref --sort -committerdate --format %(refname) %(objectname)
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/src/components/testdevinweb.vue
+> git cat-file -s bac3403fc6b6a813985e084c9cdbf0cfe0ca398f
+> git show --textconv :src/components/testdevinweb.vue
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+fatal: ref HEAD is not a symbolic ref
+> git rev-parse HEAD
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

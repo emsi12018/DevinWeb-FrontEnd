@@ -397,7 +397,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "label": "Show &&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1459,10 +1460,10 @@
             "backupPath": "/home/agil-dev/Desktop/Test-DEVINWEB/test-devinweb/~/.vscode-root/Backups/752d48360ccd251b3d89dd49fb4857c9",
             "uiState": {
                 "mode": 0,
-                "x": 67,
-                "y": 55,
+                "x": 119,
+                "y": 112,
                 "width": 796,
-                "height": 713
+                "height": 711
             }
         },
         "openedWindows": []

@@ -179,7 +179,7 @@
 
   <div class="container">
     <div class="rectangle">
-      <img class="img2 " src="https://image.posterlounge.com/img/products/390000/388473/388473_poster_l.jpg" alt="testing"></div>
+      <img class="img2 " src="../assets/service-img.jpg" alt="testing"></div>
     <div class="rectangle2">
       <div class="row">
         <div class="col-md-6"></div>
@@ -503,7 +503,7 @@ button.is-violet{
 }
 
 .img2{
-  width: 450px;
+  width: 650px;
   height: 650px; 
 }
 
